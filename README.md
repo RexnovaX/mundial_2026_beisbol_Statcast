@@ -1,6 +1,6 @@
 # ⚾ World Baseball Classic Analysis: Statcast Edition (2024-2025)
 
-![Demo del Dashboard](./capturas/Demo del Dashboard.gif)
+![Demo del Dashboard](./Capturas/Demo del Dashboard.gif)
 
 ## 📋 Resumen del Proyecto
 Este proyecto es un ecosistema de datos completo que analiza el rendimiento de los jugadores de la MLB en la temporada 2024-2025 de cara al World Baseball Classic. Abarca desde la ingesta de datos en una base de datos relacional hasta la creación de un dashboard interactivo de alto impacto visual (Dark Mode) en Power BI.
